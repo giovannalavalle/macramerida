@@ -1,0 +1,13 @@
+.Navbar-Container {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  justify-content: space-between;
+}
+.Navbar-Menu {
+}
+.Navbar-Logo {
+  max-width: 120px;
+}
+.Navbar-Shopping-Cart {
+}
